@@ -15,8 +15,7 @@ Mis Objetivos:
 Experiencia : 
 
 - Proyecto Next Internet - Desde 10/05/2022 a 30/06/2022 :
-- 
- #Desarrollo Web :
+#Desarrollo Web :
 
 Tareas realizadas : Éste fue un trabajo de forma independiente que realicé para el dueño de la empresa proveedora de internet de la ciudad de Metán, Salta. 
 
@@ -28,9 +27,13 @@ Desarrolle su página web con las tecnologías :
 #Git – #GitHub
 
 - Proyecto Hopital del Carmen - Desde 15/10/2021 a 23/12/2021 :
+
  #Desarrollo Web #Proyecto Académico :
+ 
  Tareas realizadas : Página de un hospital presentada como proyecto final .
+ 
  Tecnologías :
+ 
  #Front-End: #HTML, #CSS, #Javascript, #Bootstrap, #Handlebars 
  #Framework #Back-End: #Express – #NodeJs
  #Base de Datos: #MySQL
@@ -43,10 +46,10 @@ Desarrolle su página web con las tecnologías :
  
  Tecnologías : 
  
- #Front-End : #HTML, #CSS, #Javascript, #Bootstrap
+#Front-End : #HTML, #CSS, #Javascript, #Bootstrap
 #Framework #Back-End : #SpringBoot – #Java
-  #Base de Datos : #MySQL
-  #Git - GitHub
+#Base de Datos : #MySQL
+#Git - GitHub
   
   Experimentado en :
   
