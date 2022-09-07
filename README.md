@@ -15,6 +15,7 @@ Mis Objetivos:
 Experiencia : 
 
 - Proyecto Next Internet - Desde 10/05/2022 a 30/06/2022 :
+
 #Desarrollo Web :
 
 Tareas realizadas : Éste fue un trabajo de forma independiente que realicé para el dueño de la empresa proveedora de internet de la ciudad de Metán, Salta. 
