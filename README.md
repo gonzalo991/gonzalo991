@@ -4,7 +4,7 @@
 - 📫 How to reach me: gonxaraya991@gmail.com or my cel-phone: +54 9 3876-340842 
 
 - Hola a todos mi nombre es Oscar Gonzalo Araya
-- Soy programador full stack en las tecnologías: Java y Node Js
+- Estoy interesando en trabajar como programador full stack en las tecnologías: Java o Node Js
 - Actualmente estoy aprendiendo sobre desarrollo front end en React Js
 - Contactame a : gonxaraya991@gmail.com o mi celular: +54 9 3876-340842
 
