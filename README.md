@@ -41,7 +41,8 @@ Desarrolle su página web con las tecnologías :
  #Git - GitHub
  
  - Proyecto Tinder de Mascotas - Desde 13/08/2021 al 30/11/2021 :
- - #Programación #Full Stack :
+ 
+ #Programación #Full Stack :
  
  Tareas realizadas : Página web Tinder de Mascotas presentada como proyecto académico final.
  
@@ -97,25 +98,32 @@ Desarrolle su página web con las tecnologías :
   Estudios: 
   
   - Técnico Universitario en Programación Desde 26/03/2022 hasta 30/11/2023
+   
    UTN – Facultad Regional San Rafael
 
   - Programador Front-End Desde 16/05/2022 hasta 10/10/2022
-   Digitalers – Telecom
+  
+  Digitalers – Telecom
 
   - Full-Stack Avanzado Desde 03/08/2022 hasta 30/09/2022
+   
    UTN Centro E-learning
 
   - Full Stack Developer MERN Desde 10/08/2021 hasta 23/12/2021
-   UTN – Centro E-learning 
+  
+  UTN – Centro E-learning 
 
   - Desarrollador Full Stack Java Desde 16/03/2021 hasta 30/11/2021
-   Instituto Egg Tech
+  
+  Instituto Egg Tech
    
   - Profesorado de Inglés Desde 16/04/2010 hasta 30/11/2012
-    Universidad Nacional de Tucumán
+  
+  Universidad Nacional de Tucumán
     
   - Nivel Superior de Inglés Desde 01/03/2004 hasta 14/12/2008
-   International English Institute de la Asociación Cultural Británico Argentina de Salta
+  
+  International English Institute de la Asociación Cultural Británico Argentina de Salta
    
    
   
