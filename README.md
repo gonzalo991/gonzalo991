@@ -15,13 +15,17 @@ Mis Objetivos:
 Experiencia : 
 
 - Proyecto Next Internet - Desde 10/05/2022 a 30/06/2022 :
+- 
  #Desarrollo Web :
- Tareas realizadas : Éste fue un trabajo de forma independiente que realicé para el dueño de la empresa proveedora de internet de la ciudad de Metán, Salta. 
- Desarrolle su página web con las tecnologías : 
- #Frameworks #Front-End : #Angular 13 – haciendo uso de #HTML , #SASS, #Typescript, #Bootstrap
- #Frameworks #Back-End : #SpringBoot – #Java
- #Base de Datos: #MySQL
- #Git – #GitHub
+
+Tareas realizadas : Éste fue un trabajo de forma independiente que realicé para el dueño de la empresa proveedora de internet de la ciudad de Metán, Salta. 
+
+Desarrolle su página web con las tecnologías : 
+
+#Frameworks #Front-End : #Angular 13 – haciendo uso de #HTML , #SASS, #Typescript, #Bootstrap
+#Frameworks #Back-End : #SpringBoot – #Java
+#Base de Datos: #MySQL
+#Git – #GitHub
 
 - Proyecto Hopital del Carmen - Desde 15/10/2021 a 23/12/2021 :
  #Desarrollo Web #Proyecto Académico :
@@ -33,11 +37,14 @@ Experiencia :
  #Git - GitHub
  
  - Proyecto Tinder de Mascotas - Desde 13/08/2021 al 30/11/2021 :
-  #Programación #Full Stack :
-  Tareas realizadas : Página web Tinder de Mascotas presentada como proyecto académico final.
-  Tecnologías : 
-  #Front-End : #HTML, #CSS, #Javascript, #Bootstrap
-  #Framework #Back-End : #SpringBoot – #Java
+ - #Programación #Full Stack :
+ 
+ Tareas realizadas : Página web Tinder de Mascotas presentada como proyecto académico final.
+ 
+ Tecnologías : 
+ 
+ #Front-End : #HTML, #CSS, #Javascript, #Bootstrap
+#Framework #Back-End : #SpringBoot – #Java
   #Base de Datos : #MySQL
   #Git - GitHub
   
