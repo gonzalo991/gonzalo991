@@ -80,6 +80,8 @@ Desarrolle su página web con las tecnologías :
   - #Firebase
   - #Bases de Datos Relacionales
   - #MySQL
+  - #Jira
+  - #Método Scrum
   
   Competente con:
   
