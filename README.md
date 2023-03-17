@@ -1,11 +1,9 @@
 - 👋 Hi there, I’m #Oscar Gonzalo Araya
 - 👀 I’m interested in working as Full stack development with Java or Node Js
-- 🌱 I’m currently learning React Js and DevOps
 - 📫 How to reach me: gonzaraya91@gmail.com or my cel-phone: +54 9 3876-340842 
 
 - Hola a todos mi nombre es Oscar Gonzalo Araya
 - Estoy interesando en trabajar como programador full stack en las tecnologías: Java o Node Js
-- Actualmente estoy aprendiendo sobre desarrollo front end en React Js
 - Contactame a : gonzaraya91@gmail.com o mi celular: +54 9 3876-340842
 
 Mis Objetivos: 
