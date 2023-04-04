@@ -1,129 +1,30 @@
-- 👋 Hi there, I’m #Oscar Gonzalo Araya
-- 👀 I’m interested in working as Full stack development with Java or Node Js
-- 📫 How to reach me: gonzaraya91@gmail.com or my cel-phone: +54 9 3876-340842 
+<h1 align="center">Hola 👋, soy Oscar Gonzalo Araya</h1>
+<h3 align="center">Programador Full-Stack con experiencia en desarrollo de aplicaciones web. Poseo habilidades en lenguajes de programación como Java, Python, Node Js, JavaScript, etc y experiencia en el manejo de herramientas de desarrollo como Git, Jira, entro otras. He trabajado en diversos proyectos de pequeñas aplicaciones web siempre enfocado en entregar productos de calidad y cumplir con los plazos establecidos. Poseo habilidades en resolución de problemas y pensamiento crítico, lo que me permite encontrar soluciones efectivas en situaciones complejas. Además, tengo experiencia trabajando en equipos multidisciplinarios y adaptándome a diferentes metodologías de trabajo, como Agile y Scrum. También tengo habilidades en comunicación efectiva, lo que me permite trabajar con clientes y usuarios finales para entender sus necesidades y brindar soluciones adecuadas. En resumen, soy un programador apasionado por mi trabajo, siempre dispuesto a aprender y enfrentar nuevos desafíos. Me enfoco en la calidad y la eficiencia, y me gusta trabajar en equipo para alcanzar objetivos comunes. Estoy buscando oportunidades de trabajo en las que pueda seguir desarrollando mis habilidades y aportar valor a la organización.</h3>
 
-- Hola a todos mi nombre es Oscar Gonzalo Araya
-- Estoy interesando en trabajar como programador full stack en las tecnologías: Java o Node Js
-- Contactame a : gonzaraya91@gmail.com o mi celular: +54 9 3876-340842
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzalo991&label=Profile%20views&color=0e75b6&style=flat" alt="gonzalo991" /> </p>
 
-Mis Objetivos: 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzalo991" alt="gonzalo991" /></a> </p>
 
-- Busco realizar tareas en el área de programación formando parte de un equipo en una empresa. Cuento con capacidad de rápido aprendizaje, resolución de errores, análisis de código, despliegue de aplicaciones. Orientado a objetivos, resultados, y crecimiento profesional. 
+- 🔭 Actualmente estoy trabajando en una pequeña aplicación web para el [Hospital del Carmen](https://github.com/gonzalo991/Hospital-Del-Carmen-Web-App)
 
-Experiencia : 
+- 🌱 Actualmente estoy aprendiendo **.Net**
 
-- Proyecto Next Internet - Desde 10/05/2022 a 30/06/2022 :
+- 👨‍💻 Mi portfolio [https://argo-webdev.onrender.com/](https://argo-webdev.onrender.com/)
 
-#Desarrollo Web :
+- 💬 Preguntame sobre **react, angular, node js, java, python, html, css, javascript, typescript**
 
-Tareas realizadas : Éste fue un trabajo de forma independiente que realicé para el dueño de la empresa proveedora de internet de la ciudad de Metán, Salta. 
+- 📫 Como contactarme **gonxaraya991@gmail.com**
 
-Desarrolle su página web con las tecnologías : 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gonzalo-araya-416a6520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-araya-416a6520b/" height="30" width="40" /></a>
+</p>
 
-#Frameworks #Front-End : #Angular 13 – haciendo uso de #HTML , #SASS, #Typescript, #Bootstrap
-#Frameworks #Back-End : #SpringBoot – #Java
-#Base de Datos: #MySQL
-#Git – #GitHub
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-- Proyecto Hopital del Carmen - Desde 15/10/2021 a 23/12/2021 :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalo991&show_icons=true&locale=en&layout=compact" alt="gonzalo991" /></p>
 
- #Desarrollo Web #Proyecto Académico :
- 
- Tareas realizadas : Página de un hospital presentada como proyecto final .
- 
- Tecnologías :
- 
- #Front-End: #HTML, #CSS, #Javascript, #Bootstrap, #Handlebars 
- #Framework #Back-End: #Express – #NodeJs
- #Base de Datos: #MySQL
- #Git - GitHub
- 
- - Proyecto Tinder de Mascotas - Desde 13/08/2021 al 30/11/2021 :
- 
- #Programación #Full Stack :
- 
- Tareas realizadas : Página web Tinder de Mascotas presentada como proyecto académico final.
- 
- Tecnologías : 
- 
-#Front-End : #HTML, #CSS, #Javascript, #Bootstrap
-#Framework #Back-End : #SpringBoot – #Java
-#Base de Datos : #MySQL
-#Git - GitHub
-  
-  Experimentado en :
-  
-  - #Back-End
-  - #SpringBoot
-  - #Spring-security
-  - #JavaMailSender
-  - #MVC
-  - #API REST
-  - #API SOAP
-  - #JWT
-  - #NodeJS
-  - #Express
-  - #Express-Session
-  - #Front-End
-  - #HTML
-  - #CSS
-  - #SASS
-  - #Javascript
-  - #Typescript
-  - #Angular
-  - #React
-  - #Redux
-  - #Materialize
-  - #Bootstrap
-  - #DevOps
-  - #Heroku
-  - #Firebase
-  - #Bases de Datos Relacionales
-  - #MySQL
-  - #Jira
-  - #Método Scrum
-  
-  Competente con:
-  
-  - #Python
-  - #JQuery
-  - #Bases de datos No Relacionales
-  - #MongoDB
-  - #Metodologías ágiles
-  - #SCRUM
-  
-  Idiomas: 
-  - Nivel oral y escrito Intermedio en Inglés - B2 
-  
-  Estudios: 
-  
-  - Técnico Universitario en Programación Desde 26/03/2022 hasta 30/11/2023
-   
-   UTN – Facultad Regional San Rafael
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzalo991&show_icons=true&locale=en" alt="gonzalo991" /></p>
 
-  - Programador Front-End Desde 16/05/2022 hasta 10/10/2022
-  
-  Digitalers – Telecom
-
-  - Full-Stack Avanzado Desde 03/08/2022 hasta 30/09/2022
-   
-   UTN Centro E-learning
-
-  - Full Stack Developer MERN Desde 10/08/2021 hasta 23/12/2021
-  
-  UTN – Centro E-learning 
-
-  - Desarrollador Full Stack Java Desde 16/03/2021 hasta 30/11/2021
-  
-  Instituto Egg Tech
-   
-  - Profesorado de Inglés Desde 16/04/2010 hasta 30/11/2012
-  
-  Universidad Nacional de Tucumán
-    
-  - Nivel Superior de Inglés Desde 01/03/2004 hasta 14/12/2008
-  
-  International English Institute de la Asociación Cultural Británico Argentina de Salta
-   
-   
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzalo991&" alt="gonzalo991" /></p>
