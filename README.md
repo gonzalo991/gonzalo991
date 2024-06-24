@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzalo991" alt="gonzalo991" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en una pequeña aplicación web para el [Hospital del Carmen](https://github.com/gonzalo991/Hospital-Del-Carmen-Web-App)
-
-- 🌱 Actualmente estoy aprendiendo **.Net**
+- 🔭 Actualmente estoy buscando trabajar en una empresa.
 
 - 👨‍💻 Mi portfolio [https://argo-webdev.onrender.com/](https://argo-webdev.onrender.com/)
 
