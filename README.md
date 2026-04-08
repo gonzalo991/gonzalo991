@@ -51,14 +51,6 @@ Currently focused on strengthening my backend engineering skills and evolving to
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzalo991&show_icons=true" />
-</p>
-
----
-
 ### 📫 Contact
 
 <p align="center">
